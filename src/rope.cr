@@ -27,7 +27,7 @@ class Rope
     short.byte_at(index)
   end
 
-  def byte_at?(index) 
+  def byte_at?(index)
     return right.byte_at(index - weight) if weight < index && right?
     return left.byte_at?(index) if left?
     short.byte_at?(index)

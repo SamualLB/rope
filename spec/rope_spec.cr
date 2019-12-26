@@ -5,7 +5,6 @@ describe Rope do
     true.should eq(true)
   end
 
-
   describe "#initialize" do
     it "Can be created from a string" do
       rope = Rope.new("test")
