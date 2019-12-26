@@ -1,0 +1,9 @@
+name: rope
+version: 0.1.0
+
+authors:
+  - Samual Black <samuallb@hotmail.com>
+
+crystal: 0.31.1
+
+license: MIT
