@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/release/<YOUR-GITHUB-USERNAME>/<YOUR-REPOSITORY-NAME>.svg)](https://github.com/SamualLB/rope/releases)
+
 # rope
 
 TODO: Write a description here
