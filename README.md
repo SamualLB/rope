@@ -1,4 +1,5 @@
 [![GitHub release](https://img.shields.io/github/release/<YOUR-GITHUB-USERNAME>/<YOUR-REPOSITORY-NAME>.svg)](https://github.com/SamualLB/rope/releases)
+[![Build Status](https://travis-ci.org/SamualLB/rope.svg?branch=master)](https://travis-ci.org/SamualLB/rope)
 
 # rope
 
