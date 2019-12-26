@@ -1,6 +1,3 @@
-# TODO: Write documentation for `Rope`
-module Rope
-  VERSION = "0.1.0"
-
-  # TODO: Put your code here
+class Rope
+  VERSION = "0.0.0"
 end
